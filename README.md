@@ -9,3 +9,10 @@ Dlatego nie tracąc czasu, szukam możliwości zdobywania wiedzy i rozwoju.🧐 
 którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualnym a w przyszłości tester automatyzujący.☺
 
 *<b>Iza<b/>*
+
+  ## Subtask 4
+  ### Opis aplikacji
+  ### Opis i ocena użyteczności
+  ### Ocena wizualna
+  ### Ocena praktyczna
+  ### Uwagi
