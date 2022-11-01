@@ -17,7 +17,7 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
   kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
    ### *Opis i ocena użyteczności*
-  
+
     Logowanie/wylogowanie,
     Wybór języka/zmiana języka,
     Przejście między stroną główną a podstroną gracze,
