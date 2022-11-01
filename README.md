@@ -30,14 +30,14 @@ Edycja raportów,<br>
 Tworzenie listy zdarzeń,<br>
 
 Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
-Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty po wejściu w gracza.
+Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty dopiero po wejściu w gracza.
 Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajną funkcjonalnością byłoby porównywanie wybranych graczy bezpośrednio w aplikacji. 
 Bardzo przydatny byłby samouczek, w zakładce MECZE. Ciężko zorientować się gdzie można wprowadzić elementy z LISTY ZDARZEŃ. 
 Cała zakładka ROZPOCZNIJ MECZ, jest bardzo przytłaczająca, ze względu na brak informacji co można tam wykonać i jak to zrobić.
   
 ### *Ocena wizualna*
   
-Wygląd jest w porządku, mało atrakcyjny i przypominający formularze google. Interfejs jest prosty w odbiorze i czytelny.
+Wygląd jest w porządku, jednak mało atrakcyjny i przypominający formularze google. Interfejs jest prosty w odbiorze i czytelny.
   
 ### *Ocena praktyczna*
   
