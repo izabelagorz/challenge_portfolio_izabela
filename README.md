@@ -11,7 +11,11 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
 *<b>Iza<b/>*
 
   ## Subtask 4
+  
   ### Opis aplikacji
+  Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika, 
+kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
+
   ### Opis i ocena użyteczności
   ### Ocena wizualna
   ### Ocena praktyczna
