@@ -13,7 +13,8 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
   
    ### *Opis aplikacji*
   
-    Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika, kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
+    Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika,<br> 
+  kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
    ### *Opis i ocena użyteczności*
   
@@ -22,7 +23,7 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
     Przejście między stroną główną a podstroną gracze,
     Dodawanie graczy,
     Przejście do podstrony Mecze, Raporty,
-    Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,
+    Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,
     Dodawanie meczy,
     Dodawanie raportów,
     Edycja raportów,
