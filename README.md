@@ -28,6 +28,7 @@ Dodawanie meczy,<br>
 Dodawanie raportów,<br>
 Edycja raportów,<br>
 Tworzenie listy zdarzeń,<br>
+
 Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
 Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty po wejściu w gracza.
 Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajną funkcjonalnością byłoby porównywanie wybranych graczy bezpośrednio w aplikacji. 
@@ -46,3 +47,5 @@ Ciężko zrozumieć, o co chodzi z panelem, do którego przechodzimy po kliknię
 Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojawia i co możemy edytować i jak to robić.
   
 ### *Uwagi*
+  
+
