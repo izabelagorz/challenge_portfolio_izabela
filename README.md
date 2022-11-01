@@ -5,7 +5,7 @@
 Na moją decyzję, by przystąpić do QA Challenge, wpłynęła możliwość uzyskania praktycznej wiedzy oraz stworzenia portfolio.<br>
 W zeszłym miesięcy stwierdziłam, że chcę coś zmienić w swojej karierze i zaczęłam działać.💪 <br>
 Dlatego nie tracąc czasu, szukam możliwości zdobywania wiedzy i rozwoju.🧐 Chciałabym, żeby ten projekt, wskazał mi ścieżkę, <br>
-którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualnym a w przyszłości tester automatyzujący.☺
+którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualnym a w przyszłości testerem automatyzującym.☺
 
 *<b>Iza<b/>*
   
