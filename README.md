@@ -1,7 +1,7 @@
 # Task 1
 ## Subtask 1
 7 punktów 😀
-## *Subtask 3*
+## Subtask 3
 Na moją decyzję, by przystąpić do QA Challenge, wpłynęła możliwość uzyskania praktycznej wiedzy oraz stworzenia portfolio.<br>
 W zeszłym miesięcy stwierdziłam, że chcę coś zmienić w swojej karierze i zaczęłam działać. 💪
 
@@ -12,12 +12,12 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
 
   ## Subtask 4
   
-  ### Opis aplikacji
+  ### *Opis aplikacji*
   
 Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika, 
 kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
 
-  ### Opis i ocena użyteczności
+  ### *Opis i ocena użyteczności*
 Logowanie/wylogowanie,
 Wybór języka/zmiana języka,
 Przejście między stroną główną a podstroną gracze,
@@ -30,6 +30,6 @@ Edycja raportów,
 Tworzenie listy zdarzeń,
 
 
-  ### Ocena wizualna
-  ### Ocena praktyczna
-  ### Uwagi
+  ### *Ocena wizualna*
+  ### *Ocena praktyczna*
+  ### *Uwagi*
