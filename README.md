@@ -62,6 +62,6 @@ Brak możliwości usunięcia gracza. Brak możliwości usunięcia raportu. Brak 
 *Trudności w użytkowaniu.*<br>
 W zakładce MECZE po wejściu w AKCJĘ > ROZPOCZNIJ MECZ, wyświetla się plansza, w której nie działa ikona usuń. Reszta przycisków jest mało intuicyjna, można by dodać informację, co wydarzy się po kliknięciu, np. w dymku po najechaniu na daną ikonę. Informacja o wysłaniu raportu jest mało pomocna, gdyż nie wiemy jaki raport i gdzie właściwie został wysłany. Po dodaniu komentarza nie można go podejrzeć, nigdzie się nie wyświetla. Brak możliwości edycji kropek na planszy, komentarzy.<br>
 
-*Inne.*<br>  
+*Inne.*<br>
 Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generuje te same dane niezależnie od ustawień widoczności kolumny.
 W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisach w samym raporcie. 
