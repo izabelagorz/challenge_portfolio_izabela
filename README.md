@@ -53,8 +53,7 @@ W zakładce GRACZE w filtrach (przy zmianie języka na polski nie wszystkie elem
 Informacja po najechaniu na ikony w prawym górnym rogu również pozostaje w języku angielskim: (download CSV, print, view columns, filter table). W formularzu dodawania nowego gracza nieprzetłumaczone (submit, clear).<br>
 
 *Braki walidacji.*<br>
-Podczas dodawania nowego gracza brak walidacji pól poza informacją, że są wymagane, po nie poprawnym uzupełnieniu wyświetla się informacja, że nie można dodać gracza, ale nie ma informacji, które pola są niepoprawne i co jest w nich wymagane. Można wprowadzić błędną datę urodzenia, nawet z przyszłości.
-Brak możliwości usuwania gracza, usuwania raportu oraz zdarzeń.
+Podczas dodawania nowego gracza brak walidacji pól poza informacją, że są wymagane. Po nie poprawnym uzupełnieniu wyświetla się informacja, że nie można dodać gracza, ale nie ma informacji, które pola są niepoprawne i co jest w nich wymagane. Można wprowadzić błędną datę urodzenia, nawet z przyszłości.
 
 *Brakujące funkcjonalności.*<br>
 Brak możliwości usunięcia gracza. Brak możliwości usunięcia raportu. Brak możliwość dodania gracza w zakładce gracze.
