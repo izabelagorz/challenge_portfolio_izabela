@@ -11,12 +11,12 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
   
 ## Subtask 4 
   
-### *Opis aplikacji
+### *Opis aplikacji*
   
 Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika,<br> 
 kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
-### *Opis i ocena użyteczności
+### *Opis i ocena użyteczności*
 
 Logowanie/wylogowanie,<br>
 Wybór języka/zmiana języka,<br>
@@ -35,18 +35,18 @@ Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajn�
 Bardzo przydatny byłby samouczek, w zakładce MECZE. Ciężko zorientować się gdzie można wprowadzić elementy z LISTY ZDARZEŃ. 
 Cała zakładka ROZPOCZNIJ MECZ, jest bardzo przytłaczająca, ze względu na brak informacji co można tam wykonać i jak to zrobić.
   
-### *Ocena wizualna
+### *Ocena wizualna*
   
 Wygląd jest w porządku, mało atrakcyjny i przypominający formularze google. Interfejs jest prosty w odbiorze i czytelny.
   
-### *Ocena praktyczna
+### *Ocena praktyczna*
   
 Aplikacja nie sprawia problemów z dodawaniem i wyszukiwaniem graczy. Mało intuicyjne jest to, że dodanie gracza jest jedynie na stronie głównej, 
 szukałam tej opcji w panelu gracze. Trochę nieintuicyjne jest również pojawianie się zakładki MECZE i RAPORTY dopiero po wejściu w wybranego gracza. 
 Ciężko zrozumieć, o co chodzi z panelem, do którego przechodzimy po kliknięciu przycisku: ROZPOCZNIJ MECZ, w zakładce MECZE, w kolumnie AKCJE. 
 Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojawia i co możemy edytować i jak to robić.
   
-### *Uwagi
+### *Uwagi*
   
 Błędy tłumaczenia:<br>
 W zakładce GRACZE w filtrach (przy zmianie języka na polski nie wszystkie elementy są przetłumaczone: Filters, Reset, Age, Rate)
@@ -58,6 +58,6 @@ Brak możliwości usuwania gracza, usuwania raportu oraz zdarzeń.
 Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generuje te same dane niezależnie od ustawień widoczności kolumny.
 
 Trudności w użytkowaniu.<br>
-W zakładce MECZE po wejściu w AKCJĘ > ROZPOCZNIJ MECZ, wyświetla się plansza, w której nie działa ikona usuń. Reszta przycisków jest mało intuicyjna, można by dodać informację, co wydarzy się po kliknięciu, np. w dymku po najechaniu na daną ikonę. Informacja o wysłaniu raportu jest mało pomocna, gdyż nie wiemy jaki raport i gdzie właściwie został wysłany. Po dodaniu komentarza nie można go podejrzeć, nigdzie się nie wyświetla. Brak możliwości edycji kropek na planszy, komentarzy. <br>
+W zakładce MECZE po wejściu w AKCJĘ > ROZPOCZNIJ MECZ, wyświetla się plansza, w której nie działa ikona usuń. Reszta przycisków jest mało intuicyjna, można by dodać informację, co wydarzy się po kliknięciu, np. w dymku po najechaniu na daną ikonę. Informacja o wysłaniu raportu jest mało pomocna, gdyż nie wiemy jaki raport i gdzie właściwie został wysłany. Po dodaniu komentarza nie można go podejrzeć, nigdzie się nie wyświetla. Brak możliwości edycji kropek na planszy, komentarzy.<br>
   
 W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisach w samym raporcie. Brak możliwości usunięcia raportu.
