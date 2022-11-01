@@ -18,15 +18,15 @@ kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
 ### *Opis i ocena użyteczności*
 
-Logowanie/wylogowanie,
-Wybór języka/zmiana języka,
-Przejście między stroną główną a podstroną gracze,
-Dodawanie graczy,
-Przejście do podstrony Mecze, Raporty,
-Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,
-Dodawanie meczy,
-Dodawanie raportów,
-Edycja raportów,
+Logowanie/wylogowanie,<br>
+Wybór języka/zmiana języka,<br>
+Przejście między stroną główną a podstroną gracze,<br>
+Dodawanie graczy,<br>
+Przejście do podstrony Mecze, Raporty,<br>
+Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,<br>
+Dodawanie meczy,<br>
+Dodawanie raportów,<br>
+Edycja raportów,<br>
 Tworzenie listy zdarzeń,<br>
 Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
 Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty po wejściu w gracza.
