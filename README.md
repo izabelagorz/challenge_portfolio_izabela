@@ -21,9 +21,16 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
     Dodawanie raportów,
     Edycja raportów,
     Tworzenie listy zdarzeń,<br>
-      *Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty po wejściu w gracza. Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajną funkcjonalnością byłoby porównywanie wybranych graczy bezpośrednio w aplikacji. Bardzo przydatny byłby samouczek, w zakładce MECZE. Ciężko zorientować się gdzie można wprowadzić elementy z LISTY ZDARZEŃ. Cała zakładka ROZPOCZNIJ MECZ, jest bardzo przytłaczająca, ze względu na brak informacji co można tam wykonać i jak to zrobić.* 
+      *Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
+  Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty po wejściu w gracza.
+  Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajną funkcjonalnością byłoby porównywanie wybranych graczy bezpośrednio w aplikacji. 
+  Bardzo przydatny byłby samouczek, w zakładce MECZE. Ciężko zorientować się gdzie można wprowadzić elementy z LISTY ZDARZEŃ. 
+  Cała zakładka ROZPOCZNIJ MECZ, jest bardzo przytłaczająca, ze względu na brak informacji co można tam wykonać i jak to zrobić.* 
   ### *Ocena wizualna*
     Wygląd jest w porządku, mało atrakcyjny i przypominający formularze google. Interfejs jest prosty w odbiorze i czytelny.
   ### *Ocena praktyczna*
-  Aplikacja nie sprawia problemów z dodawaniem i wyszukiwaniem graczy. Mało intuicyjne jest to, że dodanie gracza jest jedynie na stronie głównej, szukałam tej opcji w panelu gracze. Trochę nieintuicyjne jest również pojawianie się zakładki MECZE i RAPORTY dopiero po wejściu w wybranego gracza. Ciężko zrozumieć, o co chodzi z panelem, do którego przechodzimy po kliknięciu przycisku: ROZPOCZNIJ MECZ, w zakładce MECZE, w kolumnie AKCJE. Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojawia i co możemy edytować i jak to robić.
+  Aplikacja nie sprawia problemów z dodawaniem i wyszukiwaniem graczy. Mało intuicyjne jest to, że dodanie gracza jest jedynie na stronie głównej, 
+  szukałam tej opcji w panelu gracze. Trochę nieintuicyjne jest również pojawianie się zakładki MECZE i RAPORTY dopiero po wejściu w wybranego gracza. 
+  Ciężko zrozumieć, o co chodzi z panelem, do którego przechodzimy po kliknięciu przycisku: ROZPOCZNIJ MECZ, w zakładce MECZE, w kolumnie AKCJE. 
+  Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojawia i co możemy edytować i jak to robić.
   ### *Uwagi*
