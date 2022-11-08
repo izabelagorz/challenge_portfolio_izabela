@@ -75,6 +75,8 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   ## Subtask 3
   
+  <img src="/image/https%3A%2F%2Fi.ytimg.com%2Fvi%2FOO3FANjwKHY%2Fhqdefault.jpg?table=block&amp;id=59550964-8c6a-4d91-b424-c1994a2c2a1c&amp;spaceId=732f0b1c-c96d-43d6-bb4c-c4556b1e2cd1&amp;width=500&amp;userId=&amp;cache=v2" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; height: 100%;">
+  
   <object width="425" height="350">
   <param name="movie" value="https://www.youtube.com/embed/OO3FANjwKHY?start=1" />
   <param name="wmode" value="transparent" />
@@ -85,7 +87,9 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
  
   
   ## Subtask 3
+  <div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OO3FANjwKHY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
   
  
 
