@@ -76,6 +76,9 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   ## *Subtask 3*
   
+  ### Po co piszemy przypadki testowe?
+
+  
   [![Komu to potrzebne? A dlaczego?](https://fabrykamemow.pl/uimages/services/fabrykamemow/i18n/pl_PL/201708/1502827036_by_anonymous_500.jpg?1502827036)](https://www.youtube.com/embed/OO3FANjwKHY?start=1)
   
    ## *Subtask 4*
