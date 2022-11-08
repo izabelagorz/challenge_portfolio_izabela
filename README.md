@@ -69,7 +69,7 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
  # Task 2
 ## Subtask 1
-[![Pisanie przypadków testowych na podstawie User Story]()](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp)
+[![Pisanie przypadków testowych na podstawie User Story](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-smiling-eyes_1f60a.png)](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp)
 
   <a href=”https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp”> Pisanie przypadków testowych na podstawie User Story</a>
 ## Subtask 2
