@@ -69,19 +69,19 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
  # Task 2
 ## *Subtask 1*
-[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp)
+[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing)
 
 ## *Subtask 2*
- [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp)
+ [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
   ## *Subtask 3*
   
   [![Komu to potrzebne? A dlaczego?](https://fabrykamemow.pl/uimages/services/fabrykamemow/i18n/pl_PL/201708/1502827036_by_anonymous_500.jpg?1502827036)](https://www.youtube.com/embed/OO3FANjwKHY?start=1)
   
    ## *Subtask 4*
-  [Pisanie przypadków testowych na podstawie własnych doświadczeń aplikacja](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp)
+  [Pisanie przypadków testowych na podstawie własnych doświadczeń aplikacja](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
   
-  [Pisanie przypadków testowych na podstawie własnych doświadczeń aplikacja]([https://pickeatup.io/)
+  [Aplikacja Pisk Eat Up]([https://pickeatup.io/)
   
   
   
