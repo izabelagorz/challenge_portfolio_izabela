@@ -49,6 +49,8 @@ Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojaw
 ### *Uwagi*
   
 *Błędy tłumaczenia.*<br>
+  
+  
 W zakładce GRACZE w filtrach (przy zmianie języka na polski nie wszystkie elementy są przetłumaczone: Filters, Reset, Age, Rate)
 Informacja po najechaniu na ikony w prawym górnym rogu również pozostaje w języku angielskim: (download CSV, print, view columns, filter table). W formularzu dodawania nowego gracza nieprzetłumaczone (submit, clear).<br>
 
@@ -64,3 +66,13 @@ W zakładce MECZE po wejściu w AKCJĘ > ROZPOCZNIJ MECZ, wyświetla się plansz
 *Inne.*<br>
 Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generuje te same dane niezależnie od ustawień widoczności kolumny.
 W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisach w samym raporcie. 
+  
+ # Task 2
+## Subtask 1
+  <a href=”#https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing”> Pisanie przypadków testowych na podstawie User Story</a>
+## Subtask 2
+  <a href=”https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing”> Pisanie przypadków testowych na podstawie własnych doświadczeń</a>
+  ## Subtask 3
+  <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s&ab_channel=Barteky94">
+</iframe>
