@@ -81,7 +81,7 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
    ## *Subtask 4*
   [Pisanie przypadków testowych na podstawie własnych doświadczeń aplikacja](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
   
-  [Aplikacja Pisk Eat Up -> https://pickeatup.io/]
+ *Aplikacja Pisk Eat Up -> https://pickeatup.io/*
   
   
   
