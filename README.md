@@ -75,8 +75,7 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   ## Subtask 3
  
-  <video src="https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s&ab_channel=Barteky94" controls="controls" style="max-width: 730px;">
-</video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OO3FANjwKHY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
  
 
