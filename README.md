@@ -78,8 +78,11 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   ### *Po co piszemy przypadki testowe?*
   
-  
+  Przypadki testowe piszemy w celu udokumentowania możliwości modułów w danej aplikacji. Dobrze napisane przypadki pozwalają nam na pokrycie wszystkich funkcjonalności oprogramowania, pomagają w stworzeniu raportu z testów. Przypadki testowe będą przydatne dla osób, które dopiero poznają daną aplikację. Mogą również odegrać ważną rolę podczas testów akceptacyjnych, potwierdzając działanie aplikacji w oczekiwany sposób.
 
+
+*Skracając, przypadki testowe pozwalają nam na posortowanie, przetestowanie i skontrolowanie tego, co i w jaki sposób można wykonać w danej aplikacji.*
+  
   
   [![Komu to potrzebne? A dlaczego?](https://fabrykamemow.pl/uimages/services/fabrykamemow/i18n/pl_PL/201708/1502827036_by_anonymous_500.jpg?1502827036)](https://www.youtube.com/embed/OO3FANjwKHY?start=1)
   
