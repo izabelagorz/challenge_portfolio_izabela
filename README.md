@@ -106,4 +106,6 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
  
 ## Subtask 4
  
+  [EXPLORATORY TESTING SESSION](https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing)
+  
 
