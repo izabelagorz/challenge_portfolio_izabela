@@ -94,7 +94,14 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   # Task 3
 ## Subtask 1
+  [Bug report] (https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit?usp=sharing)
   
+## Subtask 2
+  [PRODUCTION TESTING] (https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing) (https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
+## Subtask 3
+  [REPORT] (https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit?usp=sharing) 
+ 
+## Subtask 4
  
 
