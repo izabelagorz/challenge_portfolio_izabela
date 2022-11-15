@@ -1,7 +1,7 @@
 # Task 1
-## Subtask 1
+## *Subtask 1*
 7 punktów 😀
-## Subtask 3
+## *Subtask 3*
 Na moją decyzję, by przystąpić do QA Challenge, wpłynęła możliwość uzyskania praktycznej wiedzy oraz stworzenia portfolio.<br>
 W zeszłym miesięcy stwierdziłam, że chcę coś zmienić w swojej karierze i zaczęłam działać.💪 <br>
 Dlatego nie tracąc czasu, szukam możliwości zdobywania wiedzy i rozwoju.🧐 Chciałabym, żeby ten projekt, wskazał mi ścieżkę, <br>
@@ -9,7 +9,7 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
 
 *<b>Iza<b/>*
   
-## Subtask 4 
+## *Subtask 4* 
   
 ### *Opis aplikacji*
   
@@ -93,18 +93,18 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
   
   
   # Task 3
-## Subtask 1
+## *Subtask 1*
   [BUG REPORT](https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit?usp=sharing)
   
-## Subtask 2
+## *Subtask 2*
   [PRODUCTION TESTING part1](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing) <br>
   
 [PRODUCTION TESTING part2](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
-## Subtask 3
+## *Subtask 3*
   [REPORT](https://docs.google.com/document/d/1hk10oz3M5G8V2kedF53JsuEHQGy_1ZaIR7jWWBwVqRk/edit?usp=sharing) 
  
-## Subtask 4
+## *Subtask 4*
  
   [EXPLORATORY TESTING SESSION](https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing)
   
