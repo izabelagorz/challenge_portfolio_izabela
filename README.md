@@ -108,4 +108,6 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
  
   [EXPLORATORY TESTING SESSION](https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing)
   
-
+ # Task 4
+## *Subtask 2*
+[REPORT Focusly](https://docs.google.com/spreadsheets/d/1_b4XZgE24yGXYqKL3lu7vxpsy__a_yBAma0oS6CHfto/edit?usp=sharing) 
