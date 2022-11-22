@@ -111,3 +111,30 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
  # Task 4
 ## *Subtask 2*
 [REPORT Focusly](https://docs.google.com/spreadsheets/d/1_b4XZgE24yGXYqKL3lu7vxpsy__a_yBAma0oS6CHfto/edit?usp=sharing) 
+## *Subtask 3*
+
+  *1*
+Aplikacja służy do medytacji oraz
+pracy nad sobą i swoimi emocjami. Celem aplikacji jest promowanie
+medytacji oraz technik relaksacyjnych i rozwojowych z nią związanych.
+  
+*2*
+  Użytkownikiem końcowym aplikacji mają być dorośli oraz dzieci
+w wieku szkolnym i starsze.
+  
+  *3*
+Moim zdaniem aplikacja na początku za bardzo przytłacza użytkownika ilością
+okien, pomiędzy którymi można przechodzić z poziomu
+menu głównego. Kolorystyka jest przyjazna, przyciski w większości są intuicyjne.
+  
+  *4*
+  Wprowadziłabym rozbudowany samouczek, który by pozwolił na zrozumienie
+podziału i funkcji aplikacji. Dodałabym również informacje (ikonka serduszka) przy
+nagraniach, które zostały dodane do listy ulubionych. Przydatna by była również
+informacja przy nagraniach, które już zostały w całości przesłuchane, a które są do dokończenia.
+
+*5*
+Testowanie aplikacji internetowej jest zdecydowanie wygodniejsze ze względu
+na rozdzielczość ekranu i poruszanie się w środowisku komputerowym. Aplikacja natywna nie zawsze
+pozwala nam na szybkie zidentyfikowanie anomalii ze względu na możliwość chybienia przez nas w przycisk
+lub wady urządzenia, na którym jest dana aplikacja testowana.
