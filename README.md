@@ -16,7 +16,7 @@ którą powinnam podążyć, by osiągnąć swój cel i zostać testerem manualn
 Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika,<br> 
 kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
-### *Opis i ocena użyteczności*
+### *Opis i ocena użyteczności*🧐
 
 Logowanie/wylogowanie,<br>
 Wybór języka/zmiana języka,<br>
@@ -35,18 +35,18 @@ Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajn�
 Bardzo przydatny byłby samouczek, w zakładce MECZE. Ciężko zorientować się gdzie można wprowadzić elementy z LISTY ZDARZEŃ. 
 Cała zakładka ROZPOCZNIJ MECZ, jest bardzo przytłaczająca, ze względu na brak informacji co można tam wykonać i jak to zrobić.
   
-### *Ocena wizualna*
+### *Ocena wizualna*👀
   
 Wygląd jest w porządku, jednak mało atrakcyjny i przypominający formularze google. Interfejs jest prosty w odbiorze i czytelny.
   
-### *Ocena praktyczna*
+### *Ocena praktyczna*🦾
   
 Aplikacja nie sprawia problemów z dodawaniem i wyszukiwaniem graczy. Mało intuicyjne jest to, że dodanie gracza jest jedynie na stronie głównej, 
 szukałam tej opcji w panelu gracze. Trochę nieintuicyjne jest również pojawianie się zakładki MECZE i RAPORTY dopiero po wejściu w wybranego gracza. 
 Ciężko zrozumieć, o co chodzi z panelem, do którego przechodzimy po kliknięciu przycisku: ROZPOCZNIJ MECZ, w zakładce MECZE, w kolumnie AKCJE. 
 Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojawia i co możemy edytować i jak to robić.
   
-### *Uwagi*
+### *Uwagi*❗️
   
 *Błędy tłumaczenia.*<br>
   
