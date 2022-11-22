@@ -140,3 +140,5 @@ pozwala nam na szybkie zidentyfikowanie anomalii ze względu na możliwość chy
 lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻 
   
   ## *Subtask 4*
+[BUG REPORT swipeto.pl](https://testerzy.atlassian.net/)🕵️‍
+
