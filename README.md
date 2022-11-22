@@ -115,7 +115,7 @@ W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisa
 
   *1* <br>
 Aplikacja służy do medytacji oraz
-pracy nad sobą i swoimi emocjami. Celem aplikacji jest promowanie
+pracy nad sobą i swoimi emocjami. 🌸 Celem aplikacji jest promowanie
 medytacji oraz technik relaksacyjnych i rozwojowych z nią związanych.
   
 *2*<br>
@@ -125,7 +125,7 @@ w wieku szkolnym i starsze.👨‍👩‍👧‍👦
   *3*<br>
 Moim zdaniem aplikacja na początku za bardzo przytłacza użytkownika ilością
 okien, pomiędzy którymi można przechodzić z poziomu
-menu głównego. Kolorystyka jest przyjazna, przyciski w większości są intuicyjne.
+menu głównego. Kolorystyka jest przyjazna, przyciski w większości są intuicyjne.👌
   
   *4*<br>
   Wprowadziłabym rozbudowany samouczek, który by pozwolił na zrozumienie
