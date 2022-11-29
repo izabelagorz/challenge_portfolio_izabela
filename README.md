@@ -174,6 +174,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
         SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+     SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
