@@ -147,9 +147,11 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   
 ## *Subtask 3*  
   
-[1](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing). Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
   
 SELECT * FROM actors ORDER BY surname
+
+  ![1](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/)
   
 
  
