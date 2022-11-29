@@ -160,7 +160,7 @@ OR
   
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
   
- ![SELECT * FROM actors ORDER BY surname](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing)
+[![SELECT * FROM actors ORDER BY surname](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing)]
  
   SELECT * FROM actors ORDER BY surname
   
