@@ -161,6 +161,9 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999;
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+  
+  SELECT * FROM movies WHERE price <= 7;
+
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
