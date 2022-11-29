@@ -147,7 +147,9 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   
 ## *Subtask 3*  
   
-  1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+ 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+  
+  SELECT * FROM actors ORDER BY surname
 
 2. Wyświetl film, który powstał w 2019 roku.
 
