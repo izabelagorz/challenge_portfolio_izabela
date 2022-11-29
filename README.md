@@ -180,5 +180,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
    SELECT * FROM actors WHERE name LIKE 'An%'
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+                                                             
+   SELECT * FROM customers WHERE email IS NULL
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
