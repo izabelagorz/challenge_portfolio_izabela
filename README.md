@@ -171,7 +171,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
                                                              
-        SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
+ SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
      SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
