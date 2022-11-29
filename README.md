@@ -177,6 +177,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
      SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+   SELECT * FROM actors WHERE name LIKE 'An%'
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
