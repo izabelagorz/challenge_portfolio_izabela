@@ -151,7 +151,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   
 SELECT * FROM actors ORDER BY surname
   
-[![Screen Shot](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing)]
+![alt tag](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing)
  
 2. Wyświetl film, który powstał w 2019 roku.
   
