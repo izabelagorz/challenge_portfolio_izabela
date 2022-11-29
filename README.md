@@ -149,11 +149,11 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
   
-SELECT * FROM actors ORDER BY surname
+ ![SELECT * FROM actors ORDER BY surname](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/)
+ 
+  SELECT * FROM actors ORDER BY surname
 
-  ![1](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/)
   
-
  
 2. Wyświetl film, który powstał w 2019 roku.
   
