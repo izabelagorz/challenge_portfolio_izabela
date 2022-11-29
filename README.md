@@ -163,7 +163,6 @@ OR
  ![SELECT * FROM actors ORDER BY surname](https://drive.google.com/file/d/1Ge_vL9-7DqIRpCbEculYR4T6dL2FA7KH/view?usp=sharing)
  
   SELECT * FROM actors ORDER BY surname
-
   
  
 2. Wyświetl film, który powstał w 2019 roku.
