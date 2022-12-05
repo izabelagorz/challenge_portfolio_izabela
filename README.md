@@ -215,3 +215,12 @@ SELECT * FROM customers WHERE email IS NULL<br>
                                                              
 SELECT * FROM movies WHERE price>9 AND movie_id BETWEEN 2 AND 8<br>
 ![10](https://user-images.githubusercontent.com/113973677/204655709-cfcc8170-ae79-4153-a0cf-bf17d00d3c8b.png)<br>
+  
+# Task 6
+## *Subtask 1*  
+  
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
+SELECT name FROM actors 
+UNION
+SELECT name FROM customers
+ORDER BY name
