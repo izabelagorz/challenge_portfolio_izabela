@@ -218,6 +218,11 @@ SELECT * FROM movies WHERE price>9 AND movie_id BETWEEN 2 AND 8<br>
   
 # Task 6
 ## *Subtask 1*  
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈 
+UPDATE customers
+SET surname = 'Miler'
+WHERE customer_id=3  
+  
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
 SELECT name FROM actors 
