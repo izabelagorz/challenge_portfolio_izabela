@@ -237,12 +237,13 @@ SELECT sale.customer_id, customers.name, customers.surname, movies.title
 FROM sale
 INNER JOIN customers, movies 
 15.  
-<div>
+  
+<code>
 ALTER TABLE customers
 ADD pseudonym varchar(3)
 UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
 SELECT * FROM customers; 
-<div/>
+<code/>
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
 SELECT name FROM actors 
