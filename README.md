@@ -165,10 +165,11 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
 *1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
   
   ```
-  
+  <code>
   SELECT * FROM actors ORDER BY surname 
-  
-  ``` <br>
+   </code>
+  ```
+  <br>
   
 ![1](https://user-images.githubusercontent.com/113973677/204655283-6dca669b-f702-438a-96ca-495b6abf76e6.png)<br>
 
