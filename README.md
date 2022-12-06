@@ -32,6 +32,12 @@
  
 :point_right: [Subtask 4 4](#subtask-4-4)
 
+# TASK 5
+:point_right: [Subtask 5 1](#subtask-5-1)
+ 
+:point_right: [Subtask 5 3](#subtask-5-3)
+ 
+
 
 
 # Task 1
@@ -184,7 +190,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
 [BUG REPORT swipeto.pl](https://testerzy.atlassian.net/)🕵️‍
 
 # Task 5
-## *Subtask 1*
+## *Subtask 5 1*
   
   <ul>
 <li>SELECT</li>
@@ -199,7 +205,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
  <li>OR </li>
   </ul>
   
-## *Subtask 3*  
+## *Subtask 5 3*  
   
 *1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
   
