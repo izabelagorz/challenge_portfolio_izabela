@@ -8,13 +8,13 @@
 :point_right: [Subtask 5](#subtask-5)
 
 # TASK 2
-:point_right: [Subtask 2/1](#subtask-2/1)
+:point_right: [Subtask 2 1](#subtask-2-1)
  
-:point_right: [Subtask 2/2](#subtask-2/2)
+:point_right: [Subtask 2 2](#subtask-2-2)
  
-:point_right: [Subtask 2/3](#subtask-2/3)
+:point_right: [Subtask 2 3](#subtask-2-3)
  
-:point_right: [Subtask 2/4](#subtask-2/4)
+:point_right: [Subtask 2 4](#subtask-2-4)
 
  # TASK 3
 :point_right: [Subtask 3/1](#subtask-3/1)
@@ -103,13 +103,13 @@ Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generu
   
   
  # Task 2
-## *Subtask 2/1*
+## *Subtask 2 1*
 [Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing)
 
-## *Subtask 2/2*
+## *Subtask 2 2*
  [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
-  ## *Subtask 2/3*
+  ## *Subtask 2 3*
   
   ### *Po co piszemy przypadki testowe?*
   
@@ -120,7 +120,7 @@ Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generu
   
   [![Komu to potrzebne? A dlaczego?](https://fabrykamemow.pl/uimages/services/fabrykamemow/i18n/pl_PL/201708/1502827036_by_anonymous_500.jpg?1502827036)](https://www.youtube.com/embed/OO3FANjwKHY?start=1)
   
-   ## *Subtask 2/4*
+   ## *Subtask 2 4*
   [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)
   
  *Aplikacja Pick Eat Up -> https://pickeatup.io/*
