@@ -239,10 +239,10 @@ INNER JOIN customers, movies
 15.  
   
 <code>
-ALTER TABLE customers
-ADD pseudonym varchar(3)
-UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
-SELECT * FROM customers; 
+ALTER TABLE customers <br>
+ADD pseudonym varchar(3)<br>
+UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));<br>
+SELECT * FROM customers; <br>
 <code/>
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
