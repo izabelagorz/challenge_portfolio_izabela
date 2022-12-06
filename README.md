@@ -11,11 +11,11 @@
 
 :point_right: [Subtask 2.1](#subtask-2.1)
  
- :point_right: [Subtask 2.3](#subtask-2.2)
+ :point_right: [Subtask 2.2](#subtask-2.2)
  
- :point_right: [Subtask 2.4](#subtask-2.3)
+ :point_right: [Subtask 2.3](#subtask-2.3)
  
- :point_right: [Subtask 2.5](#subtask-2.4)
+ :point_right: [Subtask 2.4](#subtask-2.4)
 
  
 
