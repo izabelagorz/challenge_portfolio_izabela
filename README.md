@@ -8,7 +8,6 @@
  :point_right: [Subtask 5](#subtask-5)
 
 # TASK 2
-
 :point_right: [Subtask 2.1](#subtask-2.1)
  
  :point_right: [Subtask 2.2](#subtask-2.2)
