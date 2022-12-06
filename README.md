@@ -162,7 +162,7 @@ OR
   
 *1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
   
-  <code> SELECT * FROM actors ORDER BY surname </code> <br>
+  <code> ``` SELECT * FROM actors ORDER BY surname ``` </code> <br>
 ![1](https://user-images.githubusercontent.com/113973677/204655283-6dca669b-f702-438a-96ca-495b6abf76e6.png)<br>
 
  
@@ -289,10 +289,4 @@ SELECT * FROM customers;
 ## *Subtask 2*
   
   
-  .markdown-body code, .markdown-body tt {
-    padding: 0.2em 0.4em;
-    margin: 0;
-    font-size: 85%;
-    background-color: var(--color-neutral-muted);
-    border-radius: 6px;
-}
+  
