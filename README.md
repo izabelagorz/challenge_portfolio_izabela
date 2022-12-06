@@ -231,7 +231,11 @@ INNER JOIN customers;
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 UPDATE customers SET email="pati@mail.com" WHERE customer_id=4  
-  
+
+  14.
+SELECT sale.customer_id, customers.name, customers.surname, movies.title
+FROM sale
+INNER JOIN customers, movies 
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
 SELECT name FROM actors 
