@@ -237,7 +237,8 @@ SELECT sale.customer_id, customers.name, customers.surname, movies.title
 FROM sale
 INNER JOIN customers, movies 
 15.  
-<code> ALTER TABLE customers
+{% filename %}blog/templates/blog/post_list.html{% endfilename %}
+ALTER TABLE customers
 ADD pseudonym varchar(3)
 UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
 SELECT * FROM customers; <code/>
