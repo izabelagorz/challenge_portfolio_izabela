@@ -222,6 +222,7 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
 ![1](https://user-images.githubusercontent.com/113973677/204655283-6dca669b-f702-438a-96ca-495b6abf76e6.png)<br>
 
  
+ 
 *2. Wyświetl film, który powstał w 2019 roku.*
   
 ```
@@ -233,6 +234,7 @@ SELECT * FROM movies WHERE year_of_production = 2019
   
 ![2](https://user-images.githubusercontent.com/113973677/204655323-14b6e9ae-2f07-4004-b729-1508f36c0860.png)<br>
 
+ 
 
 *3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*
   
@@ -245,6 +247,8 @@ SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999
   
 ![3](https://user-images.githubusercontent.com/113973677/204655476-4488d093-8c43-408d-a181-78f47d3e8aa5.png)<br>
 
+ 
+ 
 *4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.* 
   
 ```
@@ -256,6 +260,7 @@ SELECT * FROM movies WHERE price <= 7
   
 ![4](https://user-images.githubusercontent.com/113973677/204655520-2ad710b9-98a0-40e1-8200-2141d9e360b8.png) <br>
 
+ 
 
 *5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*
   
@@ -268,6 +273,7 @@ SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <=7
   
 ![5](https://user-images.githubusercontent.com/113973677/204655555-d32d0772-6a4e-4331-8bb3-b28164af38fa.png) <br>
 
+ 
 
 *6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.* 
   
@@ -280,6 +286,7 @@ SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id 
   
 ![6](https://user-images.githubusercontent.com/113973677/204655610-010f64bd-445d-4762-bd12-5825ca2806ed.png) <br>
 
+ 
 
 *7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*
   
@@ -292,6 +299,8 @@ SELECT * FROM customers WHERE customer_id IN (1, 3, 5)
   
 ![7](https://user-images.githubusercontent.com/113973677/204655629-25973444-7278-4ae9-996c-337baf4f9ad7.png)<br>
 
+ 
+ 
 *8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.*
   
 ```
@@ -302,6 +311,7 @@ SELECT * FROM actors WHERE name LIKE 'An%'
 <br>
   
 ![8](https://user-images.githubusercontent.com/113973677/204655666-c2d2dfc3-821c-41ab-afe9-f62b6a4a9f42.png)<br>
+ 
  
 
 *9. Wyświetl dane klienta, który nie ma podanego adresu email.*
@@ -314,7 +324,8 @@ SELECT * FROM customers WHERE email IS NULL
 <br>
   
 ![9](https://user-images.githubusercontent.com/113973677/204655691-2dcd8083-ad2b-4901-bfaf-9d21c1807d07.png)<br>
-           
+ 
+ 
 
 *10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.*
   
@@ -326,7 +337,9 @@ SELECT * FROM movies WHERE price>9 AND movie_id BETWEEN 2 AND 8
 <br>
   
 ![10](https://user-images.githubusercontent.com/113973677/204655709-cfcc8170-ae79-4153-a0cf-bf17d00d3c8b.png)<br>
-  
+
+ 
+ 
 # Task 6
   
 ## *Subtask 1* 
@@ -345,6 +358,7 @@ WHERE customer_id=3
  ![11](https://user-images.githubusercontent.com/113973677/205922402-967bba36-4fcf-4fde-b297-a7e19b3c5d9d.png)<br>
 
  
+ 
 *12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.*
   
 ```
@@ -358,6 +372,7 @@ INNER JOIN customers;
 ![12](https://user-images.githubusercontent.com/113973677/205922463-87843077-94cb-4ff0-9f92-84ba887315c6.png)<br>
 
  
+ 
 *13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com*
   
 ```
@@ -369,6 +384,7 @@ UPDATE customers SET email="pati@mail.com" WHERE customer_id=4
  
  ![13](https://user-images.githubusercontent.com/113973677/205922531-7c39ad20-ac18-43bb-bf84-c8cbe0509de7.png)<br>
 
+ 
  
 *14.Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.*
   
@@ -384,6 +400,7 @@ INNER JOIN customers, movies
  
  ![14](https://user-images.githubusercontent.com/113973677/205922646-ec0e96a7-bc7b-4ec5-ade0-4e0db9d06eb2.png)<br>
 
+ 
   
 *15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska.*
   
@@ -400,6 +417,7 @@ SELECT * FROM customers;
  ![15](https://user-images.githubusercontent.com/113973677/205922680-fd2e7485-c655-45ac-a2f5-472570397343.png)<br>
 
  
+ 
 *16.Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.*
   
 ```
@@ -414,6 +432,7 @@ ON movies.movie_id = sale.movie_id;
  
  ![16](https://user-images.githubusercontent.com/113973677/205922726-d9c4be1a-6b03-4a3a-854f-5b8d714c4a08.png)<br>
 
+ 
 
 *17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.* 
   
@@ -431,6 +450,7 @@ ORDER BY name
  ![17](https://user-images.githubusercontent.com/113973677/205922763-c97bb2de-74e0-49e4-a5ae-5c79b0deb5f7.png)<br>
 
  
+ 
 *18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $*
   
 ```
@@ -447,6 +467,7 @@ SELECT * FROM movies;
  ![18 a](https://user-images.githubusercontent.com/113973677/205922795-7ff6cdb4-7128-453a-9379-951edc17b8d3.png)<br>
  ![18 b](https://user-images.githubusercontent.com/113973677/205922814-0ad2f5e6-54d9-473c-b84d-903013dbacc2.png)<br>
 
+ 
   
 *19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał*
   
@@ -463,6 +484,7 @@ WHERE actors.actor_id = 4;
  ![19](https://user-images.githubusercontent.com/113973677/205922854-2e376d33-acf0-4c3a-aca5-9b1119c61003.png)<br>
 
  
+ 
 *20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa*
   
  ```
@@ -476,6 +498,7 @@ SELECT * FROM customers;
  
  ![20](https://user-images.githubusercontent.com/113973677/205922910-96753100-0275-43db-a772-f9580df766bc.png)<br>
 
+ 
   
 ## *Subtask 2*
   
