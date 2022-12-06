@@ -342,7 +342,7 @@ SELECT * FROM movies WHERE price>9 AND movie_id BETWEEN 2 AND 8
  
 # Task 6
   
-## *Subtask 1* 
+## *Subtask 6 1* 
   
 *11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈* 
   
@@ -500,7 +500,9 @@ SELECT * FROM customers;
 
  
   
-## *Subtask 2*
+## *Subtask 6 2*
+ 
   
-  
+  ![wynik](https://user-images.githubusercontent.com/113973677/205926217-423885f0-7195-441b-a0f9-07b0a1954cf2.png)<br>
+
   
