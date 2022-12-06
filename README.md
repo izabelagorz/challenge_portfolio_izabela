@@ -287,3 +287,12 @@ VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa");
 SELECT * FROM customers;
 
 ## *Subtask 2*
+  
+  
+  .markdown-body code, .markdown-body tt {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: var(--color-neutral-muted);
+    border-radius: 6px;
+}
