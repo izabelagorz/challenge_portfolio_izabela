@@ -50,24 +50,24 @@ Przydałby się jakiś samouczek czy instrukcja wyjaśniająca co tam się pojaw
   
 ### *Uwagi*❗️
   
-*Błędy tłumaczenia.*<br>
+*Błędy tłumaczenia.*🈵<br>
   W zakładce GRACZE w filtrach (przy zmianie języka na polski nie wszystkie elementy są przetłumaczone: Filters, Reset, Age, Rate)
 Informacja po najechaniu na ikony w prawym górnym rogu również pozostaje w języku angielskim: (download CSV, print, view columns, filter table). W formularzu dodawania nowego gracza nieprzetłumaczone (submit, clear).  
 
 
-*Braki walidacji.*<br>
+*Braki walidacji.*✔️❌<br>
 Podczas dodawania nowego gracza brak walidacji pól poza informacją, że są wymagane. Po nie poprawnym uzupełnieniu wyświetla się informacja, że nie można dodać gracza, ale nie ma informacji, które pola są niepoprawne i co jest w nich wymagane. Można wprowadzić błędną datę urodzenia, nawet z przyszłości.  
   
   
-*Brakujące funkcjonalności.*<br>
+*Brakujące funkcjonalności.*⛔️<br>
 Brak możliwości usunięcia gracza. Brak możliwości usunięcia raportu. Brak możliwość dodania gracza w zakładce gracze.
   
   
-*Trudności w użytkowaniu.*<br>
+*Trudności w użytkowaniu.*❓<br>
  W zakładce MECZE po wejściu w AKCJĘ > ROZPOCZNIJ MECZ, wyświetla się plansza, w której nie działa ikona usuń. Reszta przycisków jest mało intuicyjna, można by dodać informację, co wydarzy się po kliknięciu, np. w dymku po najechaniu na daną ikonę. Informacja o wysłaniu raportu jest mało pomocna, <br>gdyż nie wiemy jaki raport i gdzie właściwie został wysłany. Po dodaniu komentarza nie można go podejrzeć, nigdzie się nie wyświetla. Brak możliwości edycji kropek na planszy, komentarzy.
  
   
-*Inne.*<br>
+*Inne.*➕<br>
 Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generuje te same dane niezależnie od ustawień widoczności kolumny.
 <br>W raporcie meczowym brak ograniczeń w ilości znaków w komentarzach oraz opisach w samym raporcie. 
   
