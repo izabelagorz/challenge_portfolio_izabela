@@ -18,16 +18,16 @@ kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
 ### *Opis i ocena użyteczności*🧐
 
-Logowanie/wylogowanie,<br>
-Wybór języka/zmiana języka,<br>
-Przejście między stroną główną a podstroną gracze,<br>
-Dodawanie graczy,<br>
-Przejście do podstrony Mecze, Raporty,<br>
-Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,<br>
-Dodawanie meczy,<br>
-Dodawanie raportów,<br>
-Edycja raportów,<br>
-Tworzenie listy zdarzeń,<br>
+ • Logowanie/wylogowanie,<br>
+ • Wybór języka/zmiana języka,<br>
+ • Przejście między stroną główną a podstroną gracze,<br>
+ • Dodawanie graczy,<br>
+ • Przejście do podstrony Mecze, Raporty,<br>
+ • Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,<br>
+ • Dodawanie meczy,<br>
+ • Dodawanie raportów,<br>
+ • Edycja raportów,<br>
+ • Tworzenie listy zdarzeń,<br>
 
 Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
 Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty dopiero po wejściu w gracza.
@@ -158,116 +158,130 @@ OR
   
 ## *Subtask 3*  
   
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+*1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
   
 SELECT * FROM actors ORDER BY surname<br>
 ![1](https://user-images.githubusercontent.com/113973677/204655283-6dca669b-f702-438a-96ca-495b6abf76e6.png)<br>
 
  
-2. Wyświetl film, który powstał w 2019 roku.
+*2. Wyświetl film, który powstał w 2019 roku.*
   
 SELECT * FROM movies WHERE year_of_production = 2019 <br><br>
 ![2](https://user-images.githubusercontent.com/113973677/204655323-14b6e9ae-2f07-4004-b729-1508f36c0860.png)<br>
 
 
-3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+*3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.*
   
 SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999 <br>
 ![3](https://user-images.githubusercontent.com/113973677/204655476-4488d093-8c43-408d-a181-78f47d3e8aa5.png)<br>
 
 
-4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
+*4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.* 
   
 SELECT * FROM movies WHERE price <= 7 <br>
 ![4](https://user-images.githubusercontent.com/113973677/204655520-2ad710b9-98a0-40e1-8200-2141d9e360b8.png)<br>
 
 
-5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+*5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.*
                                        
 SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <=7 <br>
 ![5](https://user-images.githubusercontent.com/113973677/204655555-d32d0772-6a4e-4331-8bb3-b28164af38fa.png)<br>
 
 
-6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. 
+*6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.* 
                                                              
 SELECT * FROM customers WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6<br>
 ![6](https://user-images.githubusercontent.com/113973677/204655610-010f64bd-445d-4762-bd12-5825ca2806ed.png)<br>
 
 
-7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
+*7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.*
                                                              
 SELECT * FROM customers WHERE customer_id IN (1, 3, 5) <br>
 ![7](https://user-images.githubusercontent.com/113973677/204655629-25973444-7278-4ae9-996c-337baf4f9ad7.png)<br>
 
-8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+*8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.*
                                                              
 SELECT * FROM actors WHERE name LIKE 'An%'<br>
 ![8](https://user-images.githubusercontent.com/113973677/204655666-c2d2dfc3-821c-41ab-afe9-f62b6a4a9f42.png)<br>
  
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+*9. Wyświetl dane klienta, który nie ma podanego adresu email.*
                                                              
 SELECT * FROM customers WHERE email IS NULL<br>
 ![9](https://user-images.githubusercontent.com/113973677/204655691-2dcd8083-ad2b-4901-bfaf-9d21c1807d07.png)<br>
            
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+*10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.*
                                                              
 SELECT * FROM movies WHERE price>9 AND movie_id BETWEEN 2 AND 8<br>
 ![10](https://user-images.githubusercontent.com/113973677/204655709-cfcc8170-ae79-4153-a0cf-bf17d00d3c8b.png)<br>
   
 # Task 6
 ## *Subtask 1*  
-11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈 
+*11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈* 
+  
 UPDATE customers
 SET surname = 'Miler'
 WHERE customer_id=3  
   
-12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+*12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.*
   
 SELECT movies.movie_id=4, customers.customer_id, customers.name, customers.email
 FROM movies
 INNER JOIN customers;
 
-13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+*13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com*
+  
 UPDATE customers SET email="pati@mail.com" WHERE customer_id=4  
 
-  14.
+  *14.Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.*
+  
 SELECT sale.customer_id, customers.name, customers.surname, movies.title
 FROM sale
 INNER JOIN customers, movies 
   
   
-15.  
+*15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska.*
   
 ALTER TABLE customers 
 ADD pseudonym varchar(3)
 UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
 SELECT * FROM customers; 
 
+*16.Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.*
   
-17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
+SELECT DISTINCT title 
+FROM movies 
+INNER JOIN sale 
+ON movies.movie_id = sale.movie_id;
+
+*17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.*  
+  
 SELECT name FROM actors 
 UNION
 SELECT name FROM customers
 ORDER BY name
 
-  18.
- SELECT * 
-FROM movies;
+*18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $*
+  
+SELECT * FROM movies;
 UPDATE movies 
 SET price = price + 2.5 
 WHERE year_of_production > 2000;
 SELECT * FROM movies; 
   
- 19.
+*19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał*
+  
 SELECT actors.name, actors.surname, movies.title 
 FROM ((cast INNER JOIN actors ON cast.actor_id = actors.actor_id) 
 INNER JOIN movies ON cast.movie_id = movies.movie_id) 
 WHERE actors.actor_id = 4; 
   
   
- 20.
+*20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa*
+  
 INSERT INTO customers (customer_id, name, surname, email, pseudonym) 
 VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa");
 SELECT * FROM customers;
+
+## *Subtask 2*
