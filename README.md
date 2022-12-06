@@ -236,9 +236,10 @@ UPDATE customers SET email="pati@mail.com" WHERE customer_id=4
 SELECT sale.customer_id, customers.name, customers.surname, movies.title
 FROM sale
 INNER JOIN customers, movies 
+  
+  
 15.  
   
-
 ALTER TABLE customers 
 ADD pseudonym varchar(3)
 UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
@@ -250,3 +251,23 @@ SELECT name FROM actors
 UNION
 SELECT name FROM customers
 ORDER BY name
+
+  18.
+ SELECT * 
+FROM movies;
+UPDATE movies 
+SET price = price + 2.5 
+WHERE year_of_production > 2000;
+SELECT * FROM movies; 
+  
+ 19.
+SELECT actors.name, actors.surname, movies.title 
+FROM ((cast INNER JOIN actors ON cast.actor_id = actors.actor_id) 
+INNER JOIN movies ON cast.movie_id = movies.movie_id) 
+WHERE actors.actor_id = 4; 
+  
+  
+ 20.
+INSERT INTO customers (customer_id, name, surname, email, pseudonym) 
+VALUES ("7", "Honia", "Stuczka-Kucharska", "honia@mail.com", "Hoa");
+SELECT * FROM customers;
