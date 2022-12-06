@@ -1,22 +1,29 @@
 # TASK 1
 :point_right: [Subtask 1](#subtask-1)
  
- :point_right: [Subtask 3](#subtask-3)
+:point_right: [Subtask 3](#subtask-3)
  
- :point_right: [Subtask 4](#subtask-4)
+:point_right: [Subtask 4](#subtask-4)
  
- :point_right: [Subtask 5](#subtask-5)
+:point_right: [Subtask 5](#subtask-5)
 
 # TASK 2
 :point_right: [Subtask 2/1](#subtask-2/1)
  
- :point_right: [Subtask 2/2](#subtask-2/2)
+:point_right: [Subtask 2/2](#subtask-2/2)
  
- :point_right: [Subtask 2/3](#subtask-2/3)
+:point_right: [Subtask 2/3](#subtask-2/3)
  
- :point_right: [Subtask 2/4](#subtask-2/4)
+:point_right: [Subtask 2/4](#subtask-2/4)
 
+ # TASK 3
+:point_right: [Subtask 3/1](#subtask-3/1)
  
+:point_right: [Subtask 3/2](#subtask-3/2)
+ 
+:point_right: [Subtask 3/3](#subtask-3/3)
+ 
+:point_right: [Subtask 3/4](#subtask-3/4)
 
 
 
@@ -121,18 +128,18 @@ Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generu
   
   
   # Task 3
-## *Subtask 1*
+## *Subtask 3/1*
   [BUG REPORT](https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit?usp=sharing)🕵️‍♀️
   
-## *Subtask 2*
+## *Subtask 3/2*
   [PRODUCTION TESTING part1](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing) <br>
   
 [PRODUCTION TESTING part2](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
-## *Subtask 3*
+## *Subtask 3/3*
   [REPORT](https://docs.google.com/document/d/1hk10oz3M5G8V2kedF53JsuEHQGy_1ZaIR7jWWBwVqRk/edit?usp=sharing) 
  
-## *Subtask 4*
+## *Subtask 3/4*
  
   [EXPLORATORY TESTING SESSION](https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing)
   
