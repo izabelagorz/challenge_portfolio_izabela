@@ -37,7 +37,10 @@
  
 :point_right: [Subtask 5 3](#subtask-5-3)
  
-
+# TASK 6
+:point_right: [Subtask 6 1](#subtask-6-1)
+ 
+:point_right: [Subtask 6 2](#subtask-6-2)
 
 
 # Task 1
