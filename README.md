@@ -228,6 +228,9 @@ WHERE customer_id=3
 SELECT movies.movie_id=4, customers.customer_id, customers.name, customers.email
 FROM movies
 INNER JOIN customers;
+
+13.
+UPDATE customers SET email="pati@mail.com" WHERE customer_id=4  
   
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
