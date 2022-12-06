@@ -341,7 +341,10 @@ WHERE customer_id=3
   
 ```
 <br>
-  
+
+ ![11](https://user-images.githubusercontent.com/113973677/205922402-967bba36-4fcf-4fde-b297-a7e19b3c5d9d.png)<br>
+
+ 
 *12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.*
   
 ```
@@ -352,6 +355,9 @@ INNER JOIN customers;
 ```
 <br>
   
+![12](https://user-images.githubusercontent.com/113973677/205922463-87843077-94cb-4ff0-9f92-84ba887315c6.png)<br>
+
+ 
 *13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com*
   
 ```
@@ -360,7 +366,10 @@ UPDATE customers SET email="pati@mail.com" WHERE customer_id=4
   
 ```
 <br>
-  
+ 
+ ![13](https://user-images.githubusercontent.com/113973677/205922531-7c39ad20-ac18-43bb-bf84-c8cbe0509de7.png)<br>
+
+ 
 *14.Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.*
   
  ```
@@ -372,6 +381,9 @@ INNER JOIN customers, movies
   
 ```
 <br>
+ 
+ ![14](https://user-images.githubusercontent.com/113973677/205922646-ec0e96a7-bc7b-4ec5-ade0-4e0db9d06eb2.png)<br>
+
   
 *15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska.*
   
@@ -384,7 +396,10 @@ SELECT * FROM customers;
   
 ```
 <br>
-  
+ 
+ ![15](https://user-images.githubusercontent.com/113973677/205922680-fd2e7485-c655-45ac-a2f5-472570397343.png)<br>
+
+ 
 *16.Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.*
   
 ```
@@ -396,6 +411,9 @@ ON movies.movie_id = sale.movie_id;
     
 ```
 <br>
+ 
+ ![16](https://user-images.githubusercontent.com/113973677/205922726-d9c4be1a-6b03-4a3a-854f-5b8d714c4a08.png)<br>
+
 
 *17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.* 
   
@@ -410,6 +428,9 @@ ORDER BY name
 ```
 <br>
 
+ ![17](https://user-images.githubusercontent.com/113973677/205922763-c97bb2de-74e0-49e4-a5ae-5c79b0deb5f7.png)<br>
+
+ 
 *18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $*
   
 ```
@@ -422,6 +443,10 @@ SELECT * FROM movies;
   
 ```
 <br>
+ 
+ ![18 a](https://user-images.githubusercontent.com/113973677/205922795-7ff6cdb4-7128-453a-9379-951edc17b8d3.png)<br>
+ ![18 b](https://user-images.githubusercontent.com/113973677/205922814-0ad2f5e6-54d9-473c-b84d-903013dbacc2.png)<br>
+
   
 *19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał*
   
@@ -434,7 +459,10 @@ WHERE actors.actor_id = 4;
   
 ```
 <br>  
-  
+ 
+ ![19](https://user-images.githubusercontent.com/113973677/205922854-2e376d33-acf0-4c3a-aca5-9b1119c61003.png)<br>
+
+ 
 *20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa*
   
  ```
@@ -445,6 +473,9 @@ SELECT * FROM customers;
   
 ```
 <br>
+ 
+ ![20](https://user-images.githubusercontent.com/113973677/205922910-96753100-0275-43db-a772-f9580df766bc.png)<br>
+
   
 ## *Subtask 2*
   
