@@ -1,34 +1,20 @@
-#Task 1
-[Subtask 1](../Task 1/Subtask 1)
+:point_right: [Subtask 1](#subtask-1)
+ 
+ :point_right: [Subtask 3](#subtask-3)
+ 
+ :point_right: [Subtask 4](#subtask-4)
+ 
+ :point_right: [Subtask 5](#subtask-5)
 
-[Subtask 3](../Task1/Subtask 2)
+# TASK 2
 
-Subtask 4
-Subtask 5
-#Task 2
-Subtask 1
-Subtask 2
-Subtask 3
-Subtask 4
-#Task 3
-Subtask 1
-Subtask 2
-Subtask 3
-Subtask 4
-#Task 4
-Subtask 1
-Subtask 2
-Subtask 3
-Subtask 4
-#Task 5
-Subtask 1
-Subtask 2
-Subtask 3
-#Task 6
-Subtask 1
-
-
-
+ :point_right: [Subtask 1 Pisanie przypadków testowych na podstawie User Story](#subtask-1-pisanie-przypadków-testowych-na-podstawie-user-story)
+ 
+ :point_right: [Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"](#subtask-2-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń)
+ 
+ :point_right: [Subtask 3 Po co piszemy przypadki testowe?](#subtask-3-po-co-piszemy-przypadki-testowe)
+ 
+ :point_right: [Subtask 4 Pisanie przypadków testowych na podstawie "własnych doświadczeń" w grupie](#subtask-4-pisanie-przypadków-testowych-na-podstawie-własnych-doświadczeń-w-grupie)
 
 
 
