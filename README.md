@@ -1,6 +1,6 @@
 #Task 1
-[Subtask 1](../Task 1/Subtask1)
-Subtask 3
+[Subtask 1](../Task 1/Subtask 1)
+[Subtask 3](../Task1/Subtask 2)
 Subtask 4
 Subtask 5
 #Task 2
