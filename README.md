@@ -164,14 +164,22 @@ lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻
   
 *1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.*
   
-  ```<code> SELECT * FROM actors ORDER BY surname </code>``` <br>
+  ```
+  
+  SELECT * FROM actors ORDER BY surname 
+  
+  ``` <br>
   
 ![1](https://user-images.githubusercontent.com/113973677/204655283-6dca669b-f702-438a-96ca-495b6abf76e6.png)<br>
 
  
 *2. Wyświetl film, który powstał w 2019 roku.*
   
- ```SELECT * FROM movies WHERE year_of_production = 2019 ``` <br>
+ ```
+ 
+  SELECT * FROM movies WHERE year_of_production = 2019 
+  
+ ``` <br>
   
 ![2](https://user-images.githubusercontent.com/113973677/204655323-14b6e9ae-2f07-4004-b729-1508f36c0860.png)<br>
 
