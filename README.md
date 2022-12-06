@@ -17,18 +17,20 @@ Aplikacja służy do zarządzania graczami. Analizowania każdego zawodnika,<br>
 kontroli jego udziału w meczach oraz tworzenia raportów podsumowujących.
   
 ### *Opis i ocena użyteczności*🧐
-
- • Logowanie/wylogowanie,<br>
- • Wybór języka/zmiana języka,<br>
- • Przejście między stroną główną a podstroną gracze,<br>
- • Dodawanie graczy,<br>
- • Przejście do podstrony Mecze, Raporty,<br>
- • Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,<br>
- • Dodawanie meczy,<br>
- • Dodawanie raportów,<br>
- • Edycja raportów,<br>
- • Tworzenie listy zdarzeń,<br>
-
+  
+<ul>
+<li>Logowanie/wylogowanie,</li>
+<li>Wybór języka/zmiana języka,</li>
+<li>Przejście między stroną główną a podstroną gracze,</li>
+<li>Dodawanie graczy,</li>
+<li>Przejście do podstrony Mecze, Raporty,</li>
+<li>Tworzenie raportów, generowanie pliku CSV, drukowanie raportów, <br> wyszukiwanie za pomocą filtru, zmiana wyświetlanych kolumn,</li>
+<li>Dodawanie meczy,</li>
+<li>Dodawanie raportów,</li>
+<li>Edycja raportów,</li>
+<li>Tworzenie listy zdarzeń,</li>
+</ul>
+  
 Zmieniłabym miejsce pojawiania się filtru w zakładce gracze (gdy jest używany, zakrywa część informacji, co może przeszkadzać użytkownikom). 
 Dodałabym bezpośrednią zakładkę mecze (możliwość wyszukania gracza po danym meczu). Mało intuicyjne jest pojawianie się zakładki Mecze i Raporty dopiero po wejściu w gracza.
 Dodałabym również zakładkę ostatnio przeglądani gracze. Myślę, że fajną funkcjonalnością byłoby porównywanie wybranych graczy bezpośrednio w aplikacji. 
