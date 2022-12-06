@@ -223,6 +223,12 @@ UPDATE customers
 SET surname = 'Miler'
 WHERE customer_id=3  
   
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+  
+SELECT movies.movie_id=4, customers.customer_id, customers.name, customers.email
+FROM movies
+INNER JOIN customers;
+  
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie.   
 SELECT name FROM actors 
