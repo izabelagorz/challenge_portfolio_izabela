@@ -17,14 +17,20 @@
 :point_right: [Subtask 2 4](#subtask-2-4)
 
  # TASK 3
-:point_right: [Subtask 3/1](#subtask-3/1)
+:point_right: [Subtask 3 1](#subtask-3-1)
  
-:point_right: [Subtask 3/2](#subtask-3/2)
+:point_right: [Subtask 3 2](#subtask-3-2)
  
-:point_right: [Subtask 3/3](#subtask-3/3)
+:point_right: [Subtask 3 3](#subtask-3-3)
  
-:point_right: [Subtask 3/4](#subtask-3/4)
+:point_right: [Subtask 3 4](#subtask-3-4)
 
+# TASK 4
+:point_right: [Subtask 4 2](#subtask-3-2)
+ 
+:point_right: [Subtask 4 3](#subtask-4-3)
+ 
+:point_right: [Subtask 4 4](#subtask-4-4)
 
 
 
@@ -128,25 +134,25 @@ Wygenerowany plik CSV nie zawiera wszystkich informacji, za każdym razem generu
   
   
   # Task 3
-## *Subtask 3/1*
+## *Subtask 3 1*
   [BUG REPORT](https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit?usp=sharing)🕵️‍♀️
   
-## *Subtask 3/2*
+## *Subtask 3 2*
   [PRODUCTION TESTING part1](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing) <br>
   
 [PRODUCTION TESTING part2](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)
   
-## *Subtask 3/3*
+## *Subtask 3 3*
   [REPORT](https://docs.google.com/document/d/1hk10oz3M5G8V2kedF53JsuEHQGy_1ZaIR7jWWBwVqRk/edit?usp=sharing) 
  
-## *Subtask 3/4*
+## *Subtask 3 4*
  
   [EXPLORATORY TESTING SESSION](https://docs.google.com/document/d/1CknR6nF_Zg4zOYx8hCHcSHg6sTVAcTab7LOf6vR-vMs/edit?usp=sharing)
   
  # Task 4
-## *Subtask 2*
+## *Subtask 4 2*
 [BUG REPORT Focusly](https://docs.google.com/spreadsheets/d/1_b4XZgE24yGXYqKL3lu7vxpsy__a_yBAma0oS6CHfto/edit?usp=sharing)🕵️‍♀️
-## *Subtask 3*
+## *Subtask 4 3*
 
   *1* <br>
 Aplikacja służy do medytacji oraz
@@ -174,7 +180,7 @@ na rozdzielczość ekranu i poruszanie się w środowisku komputerowym.💻  Apl
 pozwala nam na szybkie zidentyfikowanie anomalii ze względu na możliwość chybienia przez nas w przycisk
 lub wady urządzenia, na którym jest dana aplikacja testowana.👩🏼‍💻 
   
-  ## *Subtask 4*
+  ## *Subtask 4 4*
 [BUG REPORT swipeto.pl](https://testerzy.atlassian.net/)🕵️‍
 
 # Task 5
