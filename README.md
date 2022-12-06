@@ -229,7 +229,7 @@ SELECT movies.movie_id=4, customers.customer_id, customers.name, customers.email
 FROM movies
 INNER JOIN customers;
 
-13.
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 UPDATE customers SET email="pati@mail.com" WHERE customer_id=4  
   
   
